@@ -1,0 +1,11 @@
+DroneWatch
+Copyright (c) 2026
+
+This product includes software developed with:
+- Android Jetpack (Apache License 2.0)
+- Kotlin (Apache License 2.0)
+- osmdroid (Apache License 2.0)
+- Google Play Services Location
+
+OpenDroneID / ASTM F3411 is an open standard.
+The included parser is an independent implementation for educational and prototyping purposes.

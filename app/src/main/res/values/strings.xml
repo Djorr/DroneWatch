@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DroneWatch</string>
+    <string name="scanning_automatically">Automatisch zoeken…</string>
+    <string name="no_drones">Geen drones gedetecteerd</string>
+    <string name="drone_detected">Drone gedetecteerd</string>
+    <string name="demo_mode">DEMO MODE</string>
+    <string name="bluetooth_required">Bluetooth vereist</string>
+    <string name="permission_required">Permissie vereist</string>
+    <string name="gps_unavailable">GPS niet beschikbaar</string>
+    <string name="notification_channel_scan">Remote ID Scanning</string>
+    <string name="notification_channel_alerts">Drone Waarschuwingen</string>
+    <string name="notification_scanning">DroneWatch scant naar Remote ID-signalen</string>
+    <string name="privacy_note">Remote ID-data wordt standaard alleen lokaal opgeslagen en niet naar servers gestuurd.</string>
+</resources>

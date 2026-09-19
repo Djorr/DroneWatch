@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Radar circles -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,54m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0" />
+    <!-- Center dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <!-- Simple drone silhouette (body + arms) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,42 L60,42 L58,48 L50,48 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,40 L48,44 L46,46 L40,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,40 L60,44 L62,46 L68,42 Z" />
+</vector>
